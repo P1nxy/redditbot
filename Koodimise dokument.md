@@ -11,3 +11,6 @@ Tegevus plaanistik:
 
 Mida ma loodan õppida sellest: 
 Peamiselt pythoni keelt aga kindlasti on ka vahva näha enda töötavat boti.
+
+Teist tundi järjest üritan Prawi installida ning olen poorvinud seda teha virtual machine abiga. Esimene tund tegin seda üksinda aga nüüd
+tuli abiks sõbrapoiss Armand, kellel on suurem aju.
